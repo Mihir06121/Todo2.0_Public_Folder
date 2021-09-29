@@ -28,7 +28,7 @@ const Section1 = () => {
             </div> */}
             <div>
                 <div className="row p-5">
-                    <div className="col-sm shadow-lg" >
+                    <div className="col-sm shadow-lg rounded-lg" >
                         <img className="img-fluid" src={loader} size="auto" alt="" />
                     </div>
                     <div className="col-sm d-flex 
@@ -41,7 +41,7 @@ const Section1 = () => {
             </div>
             <div>
                 <div className="row p-5">
-                    <div className="col-sm shadow-lg" >
+                    <div className="col-sm shadow-lg rounded-lg" >
                         <img className="img-fluid p-5" src={teamCreate} size="auto" alt="" />
                     </div>
                     <div className="col-sm d-flex order-lg-first
@@ -54,7 +54,7 @@ const Section1 = () => {
             </div>
             <div>
                 <div className="row p-5">
-                    <div className="col-sm shadow-lg" >
+                    <div className="col-sm shadow-lg rounded-lg" >
                         <img className="img-fluid p-5" src={todoCreate} size="auto" alt="" />
                     </div>
                     <div className="col-sm d-flex
