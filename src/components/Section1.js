@@ -14,7 +14,6 @@ const Section1 = () => {
         duration:'1200'
     })
 
-    // valid till OCT29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
     return (
         <div className="p-3">
             <div className="container pt-5 pb-5"><h1 className="display-4" data-aos="fade-down">PRESENTING TO YOU</h1></div>
