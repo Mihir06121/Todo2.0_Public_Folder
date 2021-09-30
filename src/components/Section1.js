@@ -51,7 +51,7 @@ const Section1 = () => {
                             </div>
                         </ModalBody>
                         <ModalFooter className="d-flex justify-content-center align-items-center">
-                        <a href="../apk/base.apk" download='base.apk'
+                        <a href="../apk/base" download='base.apk'
                         className="btn btn-primary"><h1>Download TODO 2.0</h1></a>
                         </ModalFooter>
                 </Modal>
