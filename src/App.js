@@ -1,4 +1,4 @@
-import Header from './components/Header'
+// import Header from './components/Header'
 import Section1 from "./components/Section1"
 import Footer from './components/Footer';
 import './App.css';
