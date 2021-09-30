@@ -14,8 +14,7 @@ const Section1 = () => {
         duration:'1200'
     })
 
-    // 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
-
+    // valid till OCT29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
     return (
         <div className="p-3">
             <div className="container p-5"><h1 className="text-fluid display-md-1" data-aos="fade-down">PRESENTING TO YOU</h1></div>
