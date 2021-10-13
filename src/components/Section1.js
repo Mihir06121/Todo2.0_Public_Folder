@@ -51,7 +51,7 @@ const Section1 = () => {
                             </div>
                         </ModalBody>
                         <ModalFooter className="d-flex justify-content-center align-items-center">
-                        <a href="https://drive.google.com/uc?id=1aFyNlqBIfkD5z8NbszegZzjsMyIZ9Ozx&export=download"
+                        <a href="https://drive.google.com/u/0/uc?id=1XF8GVdc-xnwsR4s63nfFOIxsiEGuNKEm&export=download"
                         className="btn btn-primary"><h1>Download TODO 2.0</h1></a>
                         </ModalFooter>
                 </Modal>
